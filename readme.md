@@ -1,4 +1,4 @@
-## RESTful JSON API example with noedjs/Express 4
+## RESTful JSON API example with nodejs/Express 4
 
 This simple API allows users to track the books they’ve read.
 The API should has an endpoint `/users/<user_id>/books/favourite` that, when called, returns a single book object.
