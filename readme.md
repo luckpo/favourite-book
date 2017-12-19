@@ -29,7 +29,7 @@ It can be extended at any time. For example :
 http://localhost:3000/users/1/books/favourite
 http://localhost:3000/users/2/books/favourite
 
-* and see what happend when the user doesn't exist in our data sources :
+* and see what happens when the user doesn't exist in our data sources :
 http://localhost:3000/users/NOBODY/books/favourite
 
 
